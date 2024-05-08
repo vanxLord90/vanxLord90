@@ -5,7 +5,7 @@
 ## Some projects I am proud of:
 - Movie Insights Dashboard Project
 - Video Game Sales ETL Pipeline
-- Twitter Data Analysis
+- Parkify (Parking Space Availability Model)
 - Clipboard Manager for Linux
 
 ## My Hobbies:
